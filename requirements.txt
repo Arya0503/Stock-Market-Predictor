@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+ta
+yfinance
+jupyter
+ipykernel
+nbconvert
+jupytext
+tabulate
